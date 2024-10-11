@@ -19,7 +19,7 @@ The dataset contains 20,000 rows and 12 selected attributes, including:
 - **Weather_Condition**: Weather conditions during the accident.
 
 Example of a dataset entry:
-
+```
 {
   'ID': 'A-1',
   'Severity': 3,
@@ -30,3 +30,4 @@ Example of a dataset entry:
   'Visibility(mi)': 10.0,
   'Weather_Condition': 'Light Rain'
 }
+```
