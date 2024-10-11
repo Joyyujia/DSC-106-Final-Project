@@ -31,14 +31,16 @@ Example of a dataset entry:
   'Weather_Condition': 'Light Rain'
 }
 ```
-### Visualizations
+## Visualizations
+
 - Scatterplot: Relationship between accident severity and visibility.
 - Bar Plot: Impact of weather conditions on the number of accidents.
 - Streamgraph: Average wind speed and precipitation for the top 15 states with the most accidents.
 - Choropleth Map: Distribution of severe accidents across the US by state.
 - Box Plot: Distribution of temperature, wind speed, and visibility for all recorded accidents.
 
-### Interactivity Features
+## Interactivity Features
+
 The project includes several interactive visual elements:
 
 - Scatterplot Radio Buttons: Filter the scatterplot to show data for different time zones.
